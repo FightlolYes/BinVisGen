@@ -1,0 +1,27 @@
+{
+  "name": "binvisgen",
+  "version": "0.0.0",
+  "description": "Convert your data into captivating images with ease ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FightlolYes/BinVisGen.git"
+  },
+  "keywords": [
+    "binary",
+    "visualisation",
+    "image",
+    "conversion",
+    "media",
+    "rendering"
+  ],
+  "author": "Yash Patil",
+  "license": " MIT",
+  "bugs": {
+    "url": "https://github.com/FightlolYes/BinVisGen/issues"
+  },
+  "homepage": "https://github.com/FightlolYes/BinVisGen#readme"
+}

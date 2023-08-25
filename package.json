@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/FightlolYes/BinVisGen/issues"
   },
-  "homepage": "https://github.com/FightlolYes/BinVisGen#readme"
+  "homepage": "https://github.com/FightlolYes/BinVisGen#readme",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "jimp": "^0.22.10"
+  }
 }
